@@ -33,17 +33,8 @@ This project demonstrates how to establish private communication between two Vir
 
 ## Architecture
 
-                Internet
-                     |
-      -----------------------------
-      |                           |
-  Network-A                 Network-B
- 10.0.0.0/16               10.8.0.0/16
-      |                           |
-     VM-A                       VM-B
-         \                   /
-          \                 /
-              VPC Peering
+<img width="1024" height="559" alt="955039ba-f0cb-453f-b8a7-594a65c8fef2" src="https://github.com/user-attachments/assets/9ba01932-ce72-4e4b-823c-8004e011500a" />
+
 ---
 
 ## Project Workflow
@@ -68,6 +59,12 @@ See gcp-vpc-peering/commands
 ## Screenshots
 
 <img width="1366" height="768" alt="Screenshot (316)" src="https://github.com/user-attachments/assets/2be98a3f-6a0b-4eb9-86ca-99acc82f376f" />
+
+<img width="1366" height="768" alt="FIREWALL G-CLOUD SHELL TERMINAL" src="https://github.com/user-attachments/assets/83a112c4-5249-4931-889a-3004fd1fd70a" />
+firewall rules connectivity
+
+<img width="1366" height="768" alt="VPC PEERING" src="https://github.com/user-attachments/assets/6bfcee60-071c-435a-a2ce-2a87ef2da0ab" />
+VPC PEERING
 
 
 ---
