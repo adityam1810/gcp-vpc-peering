@@ -52,7 +52,7 @@ This project demonstrates how to establish private communication between two Vir
 
 ## Commands Used
 
-See gcp-vpc-peering/commands
+See commands
 
 ---
 
